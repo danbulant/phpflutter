@@ -26,7 +26,7 @@ class exampleWidget extends widget {
 
 # Installation
 
-Althrough there might be a composer version in the future, as of now, the easiest way is to grab the lastest release and put it in the folder.
+Althrough there might be a composer version in the future, as of now, the easiest way is to grab the lastest release and put it in the folder `flutter` (This is not required, but is best practise).
 
 # Better includes
 
