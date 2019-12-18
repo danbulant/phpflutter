@@ -6,7 +6,7 @@ class document extends widget
 {
     /**
      * Create new document root
-     * @param opt array containing head and body
+     * @param array containing head and body
      */
     function __construct($opt){
         $obj = (object) $opt;
